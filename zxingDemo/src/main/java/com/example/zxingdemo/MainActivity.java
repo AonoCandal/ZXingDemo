@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
 
 		System.out.println("measdasishi");
 		qrCoded = (TextView) findViewById(R.id.ECoder_title);
+		System.out.println("meishenmeshi jiu biefawo");
 		qrCodeImage = (ImageView) findViewById(R.id.ECoder_image);
 		creator = (Button) findViewById(R.id.ECoder_creator);
 		scanner = (Button) findViewById(R.id.ECoder_scaning);
