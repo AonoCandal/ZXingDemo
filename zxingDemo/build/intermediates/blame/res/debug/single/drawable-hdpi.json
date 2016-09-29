@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_press.png",
+        "source": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\src\\main\\res\\drawable-hdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_normal.png",
+        "source": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_light.png",
+        "source": "E:\\AonoWorkSpace\\AndroidStudioProject\\ZXingDemo\\zxingDemo\\src\\main\\res\\drawable-hdpi\\scan_light.png"
+    }
+]
