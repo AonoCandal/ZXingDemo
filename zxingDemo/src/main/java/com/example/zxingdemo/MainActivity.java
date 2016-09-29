@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		System.out.println("measdasishi");
+		System.out.println("mei");
 		qrCoded = (TextView) findViewById(R.id.ECoder_title);
 		System.out.println("meishenmeshi jiu biefawo");
 		qrCodeImage = (ImageView) findViewById(R.id.ECoder_image);
