@@ -27,6 +27,12 @@ public class MainActivity extends Activity {
 	Button creator, scanner;
 	EditText qrCodeUrl;
 
+
+
+
+
+
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
